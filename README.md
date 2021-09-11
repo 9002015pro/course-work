@@ -28,14 +28,11 @@
 
 <div style="page-break-after: always;"></div>
 
-
-
+##[Описание предметной области](https://github.com/Lairon1/UML/blob/main/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D0%B9-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8) 
+##[Диаграмма прецедентов](https://github.com/Lairon1/UML/blob/main/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D0%B9-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8) 
 # USE CASE
-[Описание предметной области](https://github.com/Lairon1/Description-of-the-subject-area-lissen-) 
-![pdf](images/pdf%20image.bmp)
 
-  
-  ![enter image description here](https://pngimg.com/uploads/sim_card/sim_card_PNG9302.png "Пример продукции")
+![pdf](images/pdf%20image.bmp)
 
 # Описание предметной области
 
@@ -49,7 +46,7 @@
 </code>
   
   
-  
+  ##Диаграмма прецендентов
   
 Имя прецедента	Прецедент: Выбор товара</br>
 Идентификатор прецедента	ID 1</br>
